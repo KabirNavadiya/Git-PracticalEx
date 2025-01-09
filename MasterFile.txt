@@ -1,5 +1,7 @@
 this is the master file
 
+
+commit in branch2
 commit 1
 commit 2
 commit 3
@@ -9,3 +11,4 @@ A
 B
 C
 editing this using rebase-interactive
+
