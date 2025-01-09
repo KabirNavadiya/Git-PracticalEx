@@ -12,3 +12,5 @@ B
 C
 editing this using rebase-interactive
 
+branch4-commit1
+branch4-commit2
