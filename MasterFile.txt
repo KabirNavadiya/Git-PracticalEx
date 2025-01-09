@@ -6,3 +6,5 @@ commit 1
 commit 2
 commit 3
 
+Here performing squash,reset,rebase,cherry-pick
+
