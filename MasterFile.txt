@@ -8,3 +8,4 @@ Here performing squash,reset,rebase,cherry-pick
 A
 B
 C
+editing this using rebase-interactive
